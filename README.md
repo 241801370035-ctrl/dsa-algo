@@ -63,8 +63,47 @@ is this queue empty : true
 queue is empty we cann't perform of deque oparation 
 
 === Code Execution Successful ===# dsa-algo
+
+
 data structures
 output of class stack.java
 ![WhatsApp Image 2026-01-09 at 3 08 46 PM](https://github.com/user-attachments/assets/f730d8e6-8025-40a0-a5dd-af0d9055e6f6)
 
 <img width="579" height="575" alt="Screenshot 2026-01-21 160735" src="https://github.com/user-attachments/assets/c6d79aab-4d2f-4f81-9d67-c02e8dddf4f1" />
+#output
+is this queue empty  true
+queue is empty 
+[]
+____After enque 10______ 
+is this queue empty  false
+front pointer pointing element is at 10
+rear pointer  pointing element is at 10
+[10,]
+____After enque 20______ 
+is this queue empty  false
+front pointer pointing element is at 10
+rear pointer  pointing element is at 20
+[10,20,]
+____After enque 30______ 
+is this queue empty  false
+front pointer pointing element is at 10
+rear pointer  pointing element is at 30
+[10,20,30,]
+____After deque oparation______ 
+is this queue empty  false
+front pointer pointing element is at 20
+rear pointer  pointing element is at 30
+[20,30,]
+____After deque oparation______ 
+is this queue empty  false
+front pointer pointing element is at 30
+rear pointer  pointing element is at 30
+[30,]
+is this queue empty  true
+____After deque oparation______ 
+this queue is empty there is nothing to deque here
+is this queue empty  true
+queue is empty 
+[]
+
+=== Code Execution Successful ===
