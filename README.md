@@ -107,3 +107,5 @@ queue is empty
 []
 
 === Code Execution Successful ===
+output of task 10
+![WhatsApp Image 2026-02-18 at 3 59 23 PM](https://github.com/user-attachments/assets/68bceccf-8cad-44a0-b79a-acd5a1f505f0)
